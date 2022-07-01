@@ -2,9 +2,9 @@
 # *Infokaw* *Software* Manuais Diversos
  ## Manuais para o sistema KawFlex
   ### Fazer backup do sistema
- Clique  [aqui](https://github.com/ajinfokaw/infokaw_manuais/blob/main/pdf/BACKUP_COPIA_DE_SEGURANCA_JKAWFLEX.pdf) para baixar baixar o manual.
+ Clique  [aqui](https://github.com/ajinfokaw/infokaw_manuais/blob/main/pdf/BACKUP_COPIA_DE_SEGURANCA_KAWFLEX.pdf) para baixar baixar o manual.
  ### Verificar Atualizações do sistema
- Clique [aqui](https://github.com/ajinfokaw/infokaw_manuais/blob/main/pdf/CHECAR_POR_ATUALIZACAO_SISTEMA_JKAWFLEX.pdf) para baixar o manual.
+ Clique [aqui](https://github.com/ajinfokaw/infokaw_manuais/blob/main/pdf/CHECAR-POR_ATUALIZACAO_SISTEMA_KAWFLEX.pdf) para baixar o manual.
  ### Classificar Cadastro
  Clique [aqui](https://github.com/ajinfokaw/infokaw_manuais/blob/main/pdf/INSTRUCAO.pdf) para baixar baixar o manual.
  ### Cadastrar Imagens em produtos
